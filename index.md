@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- It is a cs course
+- Will help me towards my degree
 
 1. Numbered
 2. List
